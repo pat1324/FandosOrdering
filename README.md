@@ -11,7 +11,7 @@ The name of this app is definitely not a rip-off of a certain international food
 
 TODO:
 
-Display estimated time to arrival 
-Fix map tracking!!! (an update to android studio has possibly killed it)
-Finish off favorites functionality
+Display estimated time to arrival.
+Fix map tracking!!! (an update to android studio has possibly killed it).
+Finish off favorites functionality.
 
