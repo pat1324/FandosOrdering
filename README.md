@@ -1,0 +1,2 @@
+# FandosOrdering
+Android practice app
