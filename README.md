@@ -9,3 +9,9 @@ Currently the coordinates are just manually updated by me!
 Not for commercial use.
 The name of this app is definitely not a rip-off of a certain international food chain specialising in chicken!
 
+TODO:
+
+Display estimated time to arrival 
+Fix map tracking!!! (an update to android studio has possibly killed it)
+Finish off favorites functionality
+
