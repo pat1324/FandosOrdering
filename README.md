@@ -13,5 +13,6 @@ TODO:
 
 Display estimated time to arrival.\
 Fix map tracking!!! (an update to android studio has possibly killed it).\
-Finish off favorites functionality.
+Finish off favorites functionality.\
 
+Google API key in manifest.xml held offline.
